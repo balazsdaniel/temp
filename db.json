@@ -7,7 +7,7 @@
 			"name": "Pure Offices 01",
 			"city": "Bratislava",
 			"address": "Bratislava,Bratislavský,Slovakia,831 06",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6660,
@@ -16,7 +16,7 @@
 			"name": "Pure Offices 02",
 			"city": "Simris",
 			"address": "Simris,Skane,Sweden,272 91",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6661,
@@ -25,7 +25,7 @@
 			"name": "Pure Offices 03",
 			"city": "Malmö S:t Pauli",
 			"address": "Malmö S:t Pauli,Skane,Sweden,211 51",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6662,
@@ -34,7 +34,7 @@
 			"name": "Pure Offices 04",
 			"city": "Wels",
 			"address": "Wels,Oberosterreich,Austria,4600",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6663,
@@ -43,7 +43,7 @@
 			"name": "Pure Offices 05",
 			"city": "Trmice",
 			"address": "Trmice,Ústecký,Czech Republic,400 04",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6664,
@@ -52,7 +52,7 @@
 			"name": "Pure Offices 06",
 			"city": "Gossau",
 			"address": "Gossau,Sankt Gallen,Switzerland,9200",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6665,
@@ -61,7 +61,7 @@
 			"name": "Pure Offices 07",
 			"city": "Velká Bíteš",
 			"address": "Velká Bíteš,Kraj Vysočina,Czech Republic,595 01",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6666,
@@ -70,7 +70,7 @@
 			"name": "Pure Offices 08",
 			"city": "Budapest XIII. kerület",
 			"address": "Budapest XIII. kerület,Budapest,Hungary,1136",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6667,
@@ -79,7 +79,7 @@
 			"name": "Pure Offices 09",
 			"city": "Piešťany",
 			"address": "Piešťany,Trnavský,Slovakia,921 01",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6668,
@@ -88,7 +88,7 @@
 			"name": "Pure Offices 10",
 			"city": "Wels Stadt",
 			"address": "Wels Stadt,Oberosterreich,Austria,4600",
-			"state": 1
+			"provider": "Hubject"
 		},
 		{
 			"id": 6669,
@@ -97,7 +97,7 @@
 			"name": "Pure Offices 11",
 			"city": "Waidhausen",
 			"address": "Waidhausen,Oberosterreich,Austria,4600",
-			"state": 1
+			"provider": "Hubject"
 		}
 	]
 }
