@@ -1,0 +1,103 @@
+{
+	"stations": [
+		{
+			"id": 6659,
+			"latitude": 48.157469,
+			"longitude": 17.12937,
+			"name": "Pure Offices 01",
+			"city": "Bratislava",
+			"address": "Bratislava,Bratislavský,Slovakia,831 06",
+			"state": 1
+		},
+		{
+			"id": 6660,
+			"latitude": 55.535783,
+			"longitude": 14.322437,
+			"name": "Pure Offices 02",
+			"city": "Simris",
+			"address": "Simris,Skane,Sweden,272 91",
+			"state": 1
+		},
+		{
+			"id": 6661,
+			"latitude": 55.59962,
+			"longitude": 13.00731,
+			"name": "Pure Offices 03",
+			"city": "Malmö S:t Pauli",
+			"address": "Malmö S:t Pauli,Skane,Sweden,211 51",
+			"state": 1
+		},
+		{
+			"id": 6662,
+			"latitude": 48.172945,
+			"longitude": 14.023143,
+			"name": "Pure Offices 04",
+			"city": "Wels",
+			"address": "Wels,Oberosterreich,Austria,4600",
+			"state": 1
+		},
+		{
+			"id": 6663,
+			"latitude": 50.651065,
+			"longitude": 14.003347,
+			"name": "Pure Offices 05",
+			"city": "Trmice",
+			"address": "Trmice,Ústecký,Czech Republic,400 04",
+			"state": 1
+		},
+		{
+			"id": 6664,
+			"latitude": 47.4161,
+			"longitude": 9.247879,
+			"name": "Pure Offices 06",
+			"city": "Gossau",
+			"address": "Gossau,Sankt Gallen,Switzerland,9200",
+			"state": 1
+		},
+		{
+			"id": 6665,
+			"latitude": 49.27909,
+			"longitude": 16.226987,
+			"name": "Pure Offices 07",
+			"city": "Velká Bíteš",
+			"address": "Velká Bíteš,Kraj Vysočina,Czech Republic,595 01",
+			"state": 1
+		},
+		{
+			"id": 6666,
+			"latitude": 47.520124,
+			"longitude": 19.061919,
+			"name": "Pure Offices 08",
+			"city": "Budapest XIII. kerület",
+			"address": "Budapest XIII. kerület,Budapest,Hungary,1136",
+			"state": 1
+		},
+		{
+			"id": 6667,
+			"latitude": 48.594367,
+			"longitude": 17.825206,
+			"name": "Pure Offices 09",
+			"city": "Piešťany",
+			"address": "Piešťany,Trnavský,Slovakia,921 01",
+			"state": 1
+		},
+		{
+			"id": 6668,
+			"latitude": 48.158092,
+			"longitude": 14.019109,
+			"name": "Pure Offices 10",
+			"city": "Wels Stadt",
+			"address": "Wels Stadt,Oberosterreich,Austria,4600",
+			"state": 1
+		},
+		{
+			"id": 6669,
+			"latitude": 48.147017,
+			"longitude": 13.976382,
+			"name": "Pure Offices 11",
+			"city": "Waidhausen",
+			"address": "Waidhausen,Oberosterreich,Austria,4600",
+			"state": 1
+		}
+	]
+}
